@@ -1,0 +1,460 @@
+name,course_id,n_reviews,mean_rating,language,course_difficulty,course_students_enrolled,MOOC
+Machine Learning,machine-learning,12677.0,4.739922694643843,English,Mixed,3200000,Coursera
+Indigenous Canada,indigenous-canada,1460.0,4.816438356164384,Indonesia,Mixed,51000,Coursera
+The Science of Well-Being,the-science-of-well-being,8199.0,4.929503597999756,English,Mixed,2500000,Coursera
+Technical Support Fundamentals,technical-support-fundamentals,12055.0,4.76748237245956,Deutsch,Beginner,280000,Coursera
+Become a CBRS Certified Professional Installer by Google,google-cbrs-cpi-training,33.0,4.818181818181818,English,Mixed,210000,Coursera
+Financial Markets,financial-markets-global,3108.0,4.811454311454312,English,Beginner,470000,Coursera
+Introduction to Psychology,introduction-psychology,3015.0,4.852736318407961,English,Beginner,270000,Coursera
+Introduction to Psychology,introduction-psych,1182.0,4.8815566835871405,English,Beginner,270000,Coursera
+Programming for Everybody (Getting Started with Python),python,15226.0,4.583672665177985,English,Mixed,1300000,Coursera
+The Bits and Bytes of Computer Networking,computer-networking,4813.0,4.628921670475795,English,Beginner,130000,Coursera
+AI For Everyone,ai-for-everyone,7386.0,4.845112374763065,English,Beginner,350000,Coursera
+Crash Course on Python,python-crash-course,3231.0,4.725162488393687,English,Beginner,81000,Coursera
+Psychological First Aid,psychological-first-aid,2926.0,4.841421736158578,English,Mixed,190000,Coursera
+Neural Networks and Deep Learning,neural-networks-deep-learning,12292.0,4.77123332248617,English,Intermediate,630000,Coursera
+What is Data Science?,what-is-datascience,7397.0,4.622820062187373,English,Beginner,260000,Coursera
+Successful Negotiation: Essential Strategies and Skills,negotiation-skills,2869.0,4.805507145346811,English,Mixed,750000,Coursera
+Fundamentals of Project Planning and Management,uva-darden-project-management,1132.0,4.764134275618375,English,Beginner,120000,Coursera
+Project Launch,project-management,36.0,4.361111111111111,English,Beginner,190000,Coursera
+"Brand Management: Aligning Business, Brand and Behaviour",brand,1091.0,4.8964252978918426,English,Beginner,57000,Coursera
+Writing in the Sciences,sciwrite,1286.0,4.919129082426127,English,Beginner,140000,Coursera
+Stanford Introduction to Food and Health,food-and-health,4965.0,4.693655589123867,English,Beginner,370000,Coursera
+"HTML, CSS, and Javascript for Web Developers",html-css-javascript-for-web-developers,3186.0,4.758631512868801,English,Mixed,240000,Coursera
+Excel Skills for Business: Essentials,excel-essentials,7377.0,4.888301477565406,English,Beginner,200000,Coursera
+"Everyday Excel, Part 1",everyday-excel-part-1,303.0,4.755775577557756,English,Beginner,11000,Coursera
+Viral Marketing and How to Craft Contagious Content,wharton-contagious-viral-marketing,1303.0,4.7544128933231,English,Mixed,150000,Coursera
+Python Data Structures,python-data,11422.0,4.849851164419541,English,Mixed,420000,Coursera
+Private Equity and Venture Capital,private-equity,1102.0,4.762250453720508,English,Mixed,79000,Coursera
+First Step Korean,learn-korean,5993.0,4.869848156182212,English,Beginner,400000,Coursera
+"Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",introduction-tensorflow,2596.0,4.650616332819722,English,Intermediate,150000,Coursera
+Operating Systems and You: Becoming a Power User,os-power-user,2199.0,4.503410641200546,English,Beginner,76000,Coursera
+Tools for Data Science,open-source-tools-for-data-science,2887.0,4.012816072047108,English,Beginner,120000,Coursera
+"Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",deep-neural-network,6165.0,4.801784266017843,English,Beginner,270000,Coursera
+Design and Interpretation of Clinical Trials,clinical-trials,471.0,4.736730360934183,English,Mixed,67000,Coursera
+Management of Fashion and Luxury Companies,mafash,956.0,4.711297071129708,English,Mixed,120000,Coursera
+Primeros Auxilios Psicológicos (PAP),pap,2697.0,4.870596959584724,Spanish,Mixed,280000,Coursera
+Social Psychology,social-psychology,1251.0,4.83453237410072,English,Beginner,220000,Coursera
+Initiating and Planning Projects,project-planning,2961.0,4.714285714285714,English,Mixed,180000,Coursera
+Computational Thinking for Problem Solving,computational-thinking-problem-solving,259.0,4.625482625482626,English,Beginner,33000,Coursera
+Agile with Atlassian Jira,agile-atlassian-jira,719.0,4.663421418636996,English,Beginner,40000,Coursera
+Fundamentals of Graphic Design,fundamentals-of-graphic-design,2815.0,4.779751332149201,English,Beginner,290000,Coursera
+Introduction to User Experience Design,user-experience-design,777.0,4.4774774774774775,English,Beginner,87000,Coursera
+Introduction to Marketing,wharton-marketing,1882.0,4.746014877789586,English,Mixed,220000,Coursera
+Python for Data Science and AI,python-for-applied-data-science-ai,2875.0,4.291478260869566,English,Beginner,170000,Coursera
+Fundamentals of Quantitative Modeling,wharton-quantitative-modeling,1270.0,4.537007874015748,English,Mixed,110000,Coursera
+Mathematics for Machine Learning: Linear Algebra,linear-algebra-machine-learning,1643.0,4.57273280584297,English,Beginner,140000,Coursera
+Introduction to Data Science in Python,python-data-analysis,4912.0,4.234324104234528,English,Intermediate,390000,Coursera
+English for Career Development,careerdevelopment,2953.0,4.865221808330511,English,Mixed,760000,Coursera
+Global Diplomacy – Diplomacy in the Modern World,global-diplomacy,768.0,4.639322916666667,English,Mixed,79000,Coursera
+SQL for Data Science,sql-for-data-science,1851.0,4.494867639113992,English,Beginner,160000,Coursera
+Write Professional Emails in English,professional-emails-english,3090.0,4.801294498381877,English,Mixed,270000,Coursera
+Medical Neuroscience,medical-neuroscience,532.0,4.904135338345864,Italian,Advanced,170000,Coursera
+System Administration and IT Infrastructure Services,system-administration-it-infrastructure-services,1823.0,4.657158529895776,English,Beginner,62000,Coursera
+International Women's Health and Human Rights,womens-health-human-rights,242.0,4.884297520661157,English,Beginner,35000,Coursera
+Child Nutrition and Cooking,childnutrition,2118.0,4.770538243626063,English,Beginner,30000,Coursera
+Understanding the Brain: The Neurobiology of Everyday Life,neurobiology,507.0,4.897435897435898,English,Beginner,130000,Coursera
+Forensic Accounting and Fraud Examination,forensic-accounting,873.0,4.701030927835052,English,Mixed,42000,Coursera
+Clinical Terminology for International and U.S. Students,clinical-terminology,401.0,4.815461346633416,English,Beginner,32000,Coursera
+Science of Exercise,science-exercise,994.0,4.836016096579477,English,Beginner,140000,Coursera
+Digital Product Management: Modern Fundamentals,uva-darden-digital-product-management,741.0,4.727395411605938,Deutsch,Beginner,58000,Coursera
+Data Science Math Skills,datasciencemathskills,1758.0,4.449943117178612,English,Beginner,140000,Coursera
+Structuring Machine Learning Projects,machine-learning-projects,4885.0,4.707471852610031,English,Beginner,220000,Coursera
+An Introduction to American Law,american-law,735.0,4.835374149659864,English,Beginner,23000,Coursera
+The Strategy of Content Marketing,content-marketing,812.0,4.465517241379311,English,Intermediate,100000,Coursera
+Introduction to Cybersecurity Tools & Cyber Attacks,introduction-cybersecurity-cyber-attacks,1206.0,4.274461028192372,English,Beginner,30000,Coursera
+The Data Scientist’s Toolbox,data-scientists-tools,6022.0,4.4799070076386585,English,Mixed,420000,Coursera
+Animal Behaviour and Welfare,animal-welfare,800.0,4.8075,English,Mixed,71000,Coursera
+Convolutional Neural Networks in TensorFlow,convolutional-neural-networks-tensorflow,807.0,4.469640644361834,English,Intermediate,46000,Coursera
+Positive Psychology: Martin E. P. Seligman’s Visionary Science,positive-psychology-visionary-science,1328.0,4.86144578313253,English,Beginner,50000,Coursera
+Introduction to the Biology of Cancer,cancer,992.0,4.803427419354839,English,Beginner,110000,Coursera
+Convolutional Neural Networks,convolutional-neural-networks,1293.0,3.855375096674401,English,Intermediate,240000,Coursera
+Using Python to Access Web Data,python-network-data,6485.0,4.714109483423284,English,Mixed,310000,Coursera
+Introductory Human Physiology,physiology,719.0,4.780250347705146,English,Mixed,270000,Coursera
+Introduction to Systematic Review and Meta-Analysis,systematic-review,567.0,4.774250440917108,English,Mixed,67000,Coursera
+Communication Strategies for a Virtual Age,communication-strategies-virtual-age,858.0,4.847319347319347,English,Beginner,43000,Coursera
+Moral Foundations of Politics,moral-politics,698.0,4.871060171919771,English,Mixed,100000,Coursera
+Étudier en France: French Intermediate course B1-B2,etudier-en-france,820.0,4.845121951219512,French,Intermediate,190000,Coursera
+Finance for Non-Finance Professionals,finance-for-non-finance,372.0,4.814516129032258,English,Beginner,69000,Coursera
+Site Reliability Engineering: Measuring and Managing Reliability,site-reliability-engineering-slos,147.0,4.163265306122449,English,Advanced,16000,Coursera
+Autism Spectrum Disorder,autism-spectrum-disorder,482.0,4.634854771784233,Deutsch,Mixed,56000,Coursera
+Data Science Methodology,data-science-methodology,1714.0,4.338389731621937,English,Beginner,89000,Coursera
+Introduction to Financial Accounting,wharton-accounting,1479.0,4.755240027045301,English,Mixed,200000,Coursera
+Marketing in a Digital World,marketing-digital,3839.0,4.725449335764522,English,Beginner,310000,Coursera
+Financial Engineering and Risk Management Part I,financial-engineering-1,408.0,4.365196078431373,English,Mixed,100000,Coursera
+Introduction to Philosophy,philosophy,1511.0,4.698874917273329,English,Mixed,370000,Coursera
+Python Basics,python-basics,2287.0,4.794927853082641,English,Beginner,110000,Coursera
+Introduction to Sustainability,sustainability,569.0,4.769771528998243,English,Mixed,69000,Coursera
+Positive Psychiatry and Mental Health,positive-psychiatry,547.0,4.819012797074954,English,Mixed,72000,Coursera
+Learning to Teach Online,teach-online,928.0,4.786637931034483,English,Beginner,68000,Coursera
+IT Security: Defense against the digital dark arts,it-security,1446.0,4.763485477178423,English,Beginner,62000,Coursera
+An Introduction to Consumer Neuroscience & Neuromarketing,neuromarketing,518.0,4.648648648648648,English,Beginner,69000,Coursera
+Gamification,gamification,672.0,4.75,Italian,Mixed,110000,Coursera
+Contabilidad para no contadores,contabilidad,2525.0,4.763168316831683,Spanish,Beginner,220000,Coursera
+Using Python to Interact with the Operating System,python-operating-system,505.0,4.55049504950495,English,Beginner,19000,Coursera
+Object-Oriented Data Structures in C++,cs-fundamentals-1,383.0,4.608355091383812,English,Intermediate,21000,Coursera
+Google Cloud Platform Big Data and Machine Learning Fundamentals,gcp-big-data-ml-fundamentals,2097.0,4.553171196948021,English,Intermediate,120000,Coursera
+Databases and SQL for Data Science,sql-data-science,1327.0,4.38131122833459,English,Beginner,110000,Coursera
+Natural Language Processing in TensorFlow,natural-language-processing-tensorflow,677.0,4.254062038404727,English,Intermediate,40000,Coursera
+"Advanced Valuation and Strategy - M&A, Private Equity, and Venture Capital",advanced-valuation-and-strategy,187.0,4.572192513368984,English,Advanced,29000,Coursera
+Vital Signs: Understanding What the Body Is Telling Us,vital-signs,965.0,4.826943005181347,English,Mixed,190000,Coursera
+Understanding Research Methods,research-methods,1313.0,4.579588728103579,English,Mixed,120000,Coursera
+IBM Customer Engagement Specialist Professional Certificate,ibm-customer-engagement-specialist,180.0,4.811111111111111,English,Beginner,33000,Coursera
+Introduction to Calculus,introduction-to-calculus,551.0,4.878402903811252,English,Intermediate,53000,Coursera
+Camino a la Excelencia en Gestión de Proyectos,camino-excelencia-gestion-proyectos,1740.0,4.564367816091954,Spanish,Beginner,340000,Coursera
+Introduction to HTML5,html,1251.0,3.9888089528377297,English,Mixed,220000,Coursera
+Wine Tasting: Sensory Techniques for Wine Analysis,wine,104.0,4.490384615384615,English,Beginner,32000,Coursera
+Excel Skills for Business: Intermediate I,excel-intermediate-1,2194.0,4.8965360072926165,English,Intermediate,76000,Coursera
+"Programming Foundations with JavaScript, HTML and CSS",duke-programming-web,2225.0,4.533483146067415,English,Beginner,250000,Coursera
+Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course),build-a-computer,733.0,4.888130968622101,English,Mixed,95000,Coursera
+Food & Beverage Management,food-beverage-management,715.0,4.815384615384615,Netherlands,Mixed,57000,Coursera
+Data Analysis with Python,data-analysis-with-python,1734.0,4.43194925028835,English,Beginner,110000,Coursera
+Agile Meets Design Thinking,uva-darden-getting-started-agile,641.0,4.750390015600624,English,Beginner,69000,Coursera
+AWS Fundamentals: Going Cloud-Native,aws-fundamentals-going-cloud-native,1804.0,4.680155210643015,English,Beginner,110000,Coursera
+Construction Project Management,construction-project-management,845.0,4.753846153846154,English,Beginner,43000,Coursera
+Introduction to Mathematical Thinking,mathematical-thinking,444.0,4.786036036036036,English,Intermediate,270000,Coursera
+Everyday Parenting: The ABCs of Child Rearing,everyday-parenting,596.0,4.929530201342282,English,Beginner,86000,Coursera
+Machine Learning with Python,machine-learning-with-python,1588.0,4.492443324937028,English,Intermediate,120000,Coursera
+Terrorism and Counterterrorism: Comparing Theory and Practice,terrorism,598.0,4.752508361204013,English,Beginner,90000,Coursera
+Data Management for Clinical Research,clinical-data-management,273.0,4.73992673992674,English,Beginner,42000,Coursera
+Instructional Design Foundations and Applications,instructional-design-foundations-applications,93.0,3.860215053763441,English,Mixed,12000,Coursera
+Modern Art & Ideas,modern-art-ideas,1191.0,4.780016792611251,Deutsch,Beginner,310000,Coursera
+"Speak English Professionally: In Person, Online & On the Phone",speak-english-professionally,2190.0,4.749771689497717,English,Mixed,430000,Coursera
+Essential Google Cloud Infrastructure: Foundation,gcp-infrastructure-foundation,1482.0,4.707152496626181,French,Intermediate,83000,Coursera
+Introduction to Artificial Intelligence (AI),introduction-to-ai,1298.0,4.737288135593221,English,Beginner,44000,Coursera
+Dog Emotion and Cognition,dog-emotion-and-cognition,1048.0,4.661259541984733,English,Mixed,150000,Coursera
+International Leadership and Organizational Behavior,organizational-behavior,460.0,4.826086956521739,English,Mixed,41000,Coursera
+Driving business towards the Sustainable Development Goals,sdgbusiness,97.0,4.907216494845361,English,Beginner,56000,Coursera
+"The Sustainable Development Goals – A global, transdisciplinary vision for the future",global-sustainable-development,657.0,4.794520547945205,English,Beginner,26000,Coursera
+Sequence Models,nlp-sequence-models,2876.0,4.633866481223922,Spanish,Intermediate,14000,Coursera
+Devenir entrepreneur du changement,entrepreneur-changement,177.0,4.745762711864407,French,Mixed,54000,Coursera
+Entrepreneurship 1: Developing the Opportunity,wharton-entrepreneurship-opportunity,688.0,4.77906976744186,English,Mixed,86000,Coursera
+Learn to Speak Korean 1,learn-speak-korean1,1195.0,4.896234309623431,English,Beginner,120000,Coursera
+R Programming,r-programming,4026.0,4.245404868355688,Denmark,Intermediate,480000,Coursera
+Economics of Money and Banking,money-banking,285.0,4.887719298245614,English,Mixed,83000,Coursera
+Grammar and Punctuation,grammar-punctuation,4516.0,4.75310008857396,English,Mixed,430000,Coursera
+Japanese for beginners 1,japanese-1,36.0,3.611111111111111,Norway,Beginner,44000,Coursera
+Introduction to Dental Medicine,dental-medicine-penn,211.0,4.85308056872038,English,Beginner,25000,Coursera
+Fundamentals of Reinforcement Learning,fundamentals-of-reinforcement-learning,377.0,4.689655172413793,English,Intermediate,22000,Coursera
+The Power of Macroeconomics: Economic Principles in the Real World,principles-of-macroeconomics,504.0,4.619047619047619,English,Mixed,180000,Coursera
+Corporate Sustainability. Understanding and Seizing the Strategic Opportunity,corp-sustainability,90.0,4.633333333333334,English,Mixed,10000,Coursera
+Behavioral Finance,duke-behavioral-finance,611.0,4.124386252045826,English,Mixed,55000,Coursera
+Supply Chain Logistics,supply-chain-logistics,1417.0,4.710656316160903,English,Beginner,66000,Coursera
+Project Execution,project-execution,18.0,3.7222222222222223,English,Beginner,70000,Coursera
+Nutrición y obesidad: control de sobrepeso,nutricion-obesidad-sobrepeso,1523.0,4.789231779382797,Spanish,Beginner,100000,Coursera
+Microeconomics Principles,microeconomics,375.0,4.8293333333333335,English,Beginner,73000,Coursera
+Creative Writing: The Craft of Plot,craft-of-plot,1048.0,4.648854961832061,English,Mixed,120000,Coursera
+Oil & Gas Industry Operations and Markets,oilandgas,1120.0,4.823214285714286,English,Mixed,57000,Coursera
+Design Thinking for Innovation,uva-darden-design-thinking-innovation,1823.0,4.667032364234778,English,Beginner,240000,Coursera
+Learn to Program: The Fundamentals,learn-to-program,1347.0,4.734966592427617,English,Beginner,180000,Coursera
+Financial Accounting Fundamentals,uva-darden-financial-accounting,413.0,4.837772397094431,English,Beginner,65000,Coursera
+Finding Purpose and Meaning In Life: Living for What Matters Most,finding-purpose-and-meaning-in-life,293.0,4.795221843003413,English,Beginner,36000,Coursera
+Understanding Clinical Research: Behind the Statistics,clinical-research,630.0,4.831746031746032,English,Mixed,78000,Coursera
+Epidemiology: The Basic Science of Public Health,epidemiology,845.0,4.65207100591716,English,Mixed,130000,Coursera
+Fashion as Design,fashion-design,529.0,4.8279773156899815,English,Beginner,180000,Coursera
+Teamwork Skills: Communicating Effectively in Groups,teamwork-skills-effective-communication,599.0,4.772954924874791,English,Beginner,49000,Coursera
+Feminism and Social Justice,feminism-social-justice,779.0,4.818998716302953,English,Beginner,18000,Coursera
+International Organizations Management,international-organizations-management,282.0,4.801418439716312,English,Beginner,20000,Coursera
+Marketing Digital,estrategia-marketing-digital,431.0,4.709976798143852,Indonesia,Beginner,81000,Coursera
+Fundamentals of GIS,gis,1198.0,4.852253756260434,English,Beginner,86000,Coursera
+e-Learning Ecologies: Innovative Approaches to Teaching and Learning for the Digital Age,elearning,83.0,4.542168674698795,English,Mixed,17000,Coursera
+"Excel/VBA for Creative Problem Solving, Part 1",excel-vba-for-creative-problem-solving-part-1,730.0,4.817808219178082,English,Beginner,54000,Coursera
+Rethinking International Tax Law,international-taxation,213.0,4.854460093896714,English,Mixed,36000,Coursera
+Understanding and Visualizing Data with Python,understanding-visualization-data,308.0,4.542207792207792,English,Beginner,30000,Coursera
+Fundamentals of Visualization with Tableau,data-visualization-tableau,956.0,4.304393305439331,English,Beginner,81000,Coursera
+Getting Started with SAS Programming,sas-programming-basics,319.0,4.8808777429467085,English,Beginner,22000,Coursera
+Machine Learning for All,uol-machine-learning-for-all,583.0,4.675814751286449,English,Beginner,19000,Coursera
+Using Databases with Python,python-databases,2684.0,4.7011922503725785,English,Mixed,220000,Coursera
+Addiction Treatment: Clinical Skills for Healthcare Providers,addiction-treatment,133.0,4.924812030075188,English,Beginner,92000,Coursera
+Dino 101: Dinosaur Paleobiology,dino101,745.0,4.922147651006712,Lituania,Beginner,35000,Coursera
+Sports Marketing,sports-marketing,216.0,4.699074074074074,English,Intermediate,12000,Coursera
+Positive Psychology,positive-psychology,907.0,4.659316427783903,English,Mixed,180000,Coursera
+Introduction to Programming with MATLAB,matlab,3120.0,4.811858974358974,English,Beginner,270000,Coursera
+Preparing to Manage Human Resources,managing-human-resources,1469.0,4.835942818243703,English,Mixed,68000,Coursera
+Solar Energy Basics,solar-energy-basics,409.0,4.767726161369193,English,Beginner,17000,Coursera
+Front-End Web UI Frameworks and Tools: Bootstrap 4,bootstrap-4,1645.0,4.813981762917933,Afghanistan,Intermediate,89000,Coursera
+Building Scalable Java Microservices with Spring Boot and Spring Cloud,google-cloud-java-spring,193.0,3.94300518134715,English,Intermediate,24000,Coursera
+Introduction to Forensic Science,forensic-science,344.0,4.84593023255814,English,Mixed,47000,Coursera
+American Contract Law I,contracts-1,102.0,4.852941176470588,English,Beginner,18000,Coursera
+Engineering Health: Introduction to Yoga and Physiology,engineering-health-yoga-physiology,77.0,4.701298701298701,English,Beginner,14000,Coursera
+AI for Medical Diagnosis,ai-for-medical-diagnosis,257.0,4.583657587548638,Italian,Intermediate,12000,Coursera
+Introduction to Electronics,electronics,359.0,4.671309192200557,English,Mixed,110000,Coursera
+International Humanitarian Law in Theory and Practice,international-humanitarian-law,191.0,4.842931937172775,English,Beginner,22000,Coursera
+Making Architecture,making-architecture,232.0,4.823275862068965,English,Beginner,43000,Coursera
+Model Thinking,model-thinking,382.0,4.772251308900524,English,Mixed,130000,Coursera
+Supporting children with difficulties in reading and writing,dyslexia-difficulties,368.0,4.747282608695652,English,Mixed,50000,Coursera
+Innovation Management,innovation-management,316.0,4.636075949367089,Netherlands,Beginner,40000,Coursera
+The Manager's Toolkit: A Practical Guide to Managing People at Work,people-management,512.0,4.6328125,English,Mixed,47000,Coursera
+"The Modern World, Part One: Global History from 1760 to 1910",modern-world,514.0,4.815175097276264,English,Beginner,130000,Coursera
+Supply Chain Principles,supply-chain-principles,331.0,4.561933534743202,English,Mixed,29000,Coursera
+Essential Google Cloud Infrastructure: Core Services,gcp-infrastructure-core-services,755.0,4.650331125827814,English,Intermediate,68000,Coursera
+Weight Management: Beyond Balancing Calories,weight-management-beyond-balancing-calories,188.0,4.73936170212766,English,Beginner,34000,Coursera
+Miracles of Human Language: An Introduction to Linguistics,human-language,483.0,4.666666666666667,English,Beginner,120000,Coursera
+Java Programming: Solving Problems with Software,java-programming,1122.0,4.435828877005347,English,Beginner,160000,Coursera
+Inspiring and Motivating Individuals,motivate-people-teams,782.0,4.828644501278772,English,Mixed,85000,Coursera
+"Competencias digitales. Herramientas de ofimática (Microsoft Word, Excel, Power Point)",competencias-digitales-ofimatica,1110.0,4.7855855855855856,Spanish,Beginner,43000,Coursera
+Healing with the Arts,healing-with-the-arts,226.0,4.716814159292035,English,Mixed,39000,Coursera
+People Analytics,wharton-people-analytics,893.0,4.511758118701008,English,Mixed,84000,Coursera
+What is Social?,what-is-social,889.0,4.5860517435320585,English,Mixed,94000,Coursera
+UX Design Fundamentals,ux-design-fundamentals,249.0,4.767068273092369,Deutsch,Beginner,25000,Coursera
+Introduction to Classical Music,introclassicalmusic,792.0,4.909090909090909,English,Mixed,150000,Coursera
+Introduction to Data Analysis Using Excel,excel-data-analysis,1542.0,4.675745784695201,English,Mixed,99000,Coursera
+Introduction to International Criminal Law,international-criminal-law,602.0,4.835548172757475,English,Mixed,82000,Coursera
+"FinTech: Foundations, Payments, and Regulations",wharton-fintech-overview-payments-regulations,270.0,4.57037037037037,English,Beginner,12000,Coursera
+Greek and Roman Mythology,mythology,437.0,4.775743707093821,English,Mixed,260000,Coursera
+Politics and Economics of International Energy,global-energy,318.0,4.720125786163522,English,Beginner,34000,Coursera
+Continuous Delivery & DevOps,uva-darden-continous-delivery-devops,237.0,4.548523206751055,English,Beginner,26000,Coursera
+Teach English Now! Foundational Principles,english-principles,2678.0,4.91411501120239,English,Mixed,81000,Coursera
+Business Model Innovation,business-model,83.0,4.734939759036145,Italian,Mixed,13000,Coursera
+Introduction to User Experience Principles and Processes,introtoux-principles-and-processes,191.0,4.7591623036649215,English,Beginner,16000,Coursera
+Beyond the Sustainable Development Goals (SDGs): Addressing Sustainability and Development,beyond-the-sustainable-development-goals-addressing-sustainability-and-development,58.0,4.672413793103448,English,Mixed,23000,Coursera
+Process Mining: Data science in Action,process-mining,200.0,4.68,English,Intermediate,39000,Coursera
+Fundamentals of Immunology: Innate Immunity and B-Cell Function,immunologyfundamentalsimmunitybcells,203.0,4.758620689655173,English,Intermediate,18000,Coursera
+Introduction to Corporate Finance,wharton-finance,819.0,4.437118437118437,English,Mixed,130000,Coursera
+Global Diplomacy: the United Nations in the World,global-diplomacy-un,290.0,4.679310344827586,English,Beginner,29000,Coursera
+Algorithmic Toolbox,algorithmic-toolbox,1912.0,4.535564853556485,English,Intermediate,220000,Coursera
+Troubles du spectre de l'autisme : diagnostic,troubles-spectre-autisme-diagnostic,94.0,4.872340425531915,French,Intermediate,54000,Coursera
+Anatomy: Musculoskeletal and Integumentary Systems,anatomy403-1x,251.0,4.808764940239044,English,Beginner,20000,Coursera
+A Crash Course in Causality:  Inferring Causal Effects from Observational Data,crash-course-in-causality,92.0,4.619565217391305,English,Intermediate,17000,Coursera
+English for Business and Entrepreneurship,business,1096.0,4.877737226277373,English,Beginner,230000,Coursera
+What is Compliance?,what-is-compliance,119.0,4.798319327731092,English,Mixed,62000,Coursera
+Getting Started with Google Sheets,getting-started-with-google-sheets,185.0,4.562162162162162,English,Beginner,18000,Coursera
+Data Visualization with Python,python-for-data-visualization,1127.0,4.045252883762201,English,Intermediate,66000,Coursera
+Negociación exitosa: Estrategias y habilidades esenciales (en español),negociacion,715.0,4.818181818181818,Spanish,Mixed,95000,Coursera
+Data-driven Decision Making,decision-making,946.0,4.5073995771670194,English,Beginner,120000,Coursera
+Fundamentals of Engineering Exam Review,fe-exam,132.0,4.393939393939394,English,Mixed,49000,Coursera
+Gender and Sexuality: Diversity and Inclusion in the Workplace,gender-sexuality,123.0,4.650406504065041,English,Beginner,14000,Coursera
+Managerial Accounting Fundamentals,uva-darden-managerial-accounting,77.0,4.87012987012987,English,Beginner,11000,Coursera
+Search Engine Optimization Fundamentals,seo-fundamentals,471.0,4.719745222929936,English,Mixed,47000,Coursera
+Essentials of Global Health,essentials-global-health,281.0,4.857651245551601,English,Mixed,31000,Coursera
+International Security Management,international-security-management,79.0,4.658227848101266,English,Beginner,22000,Coursera
+Getting Started with AWS Machine Learning,aws-machine-learning,1154.0,4.413344887348353,English,Intermediate,73000,Coursera
+Arts and Heritage Management,arts-heritage,184.0,4.793478260869565,Netherlands,Mixed,15000,Coursera
+Understanding Einstein: The Special Theory of Relativity,einstein-relativity,694.0,4.899135446685879,English,Beginner,89000,Coursera
+Réussir le Changement,reussir-le-changement,434.0,4.394009216589862,French,Mixed,33000,Coursera
+Equine Welfare and Management,equine,56.0,4.892857142857143,French,Beginner,72000,Coursera
+International migrations: a global issue,international-migrations,60.0,4.316666666666666,English,Beginner,11000,Coursera
+Introduction to Web Development,web-development,626.0,4.65335463258786,English,Beginner,76000,Coursera
+Access Controls,access-control-sscp,45.0,4.466666666666667,English,Beginner,29000,Coursera
+Engineering Project Management: Initiating and Planning,initiating-planning,471.0,4.764331210191083,English,Beginner,23000,Coursera
+Kotlin for Java Developers,kotlin-for-java-developers,321.0,4.557632398753894,Norway,Intermediate,37000,Coursera
+Mathematics for Machine Learning: Multivariate Calculus,multivariate-calculus-machine-learning,696.0,4.642241379310345,English,Beginner,51000,Coursera
+The Addicted Brain,addiction-and-the-brain,438.0,4.5479452054794525,English,Beginner,130000,Coursera
+Introducción a la programación en Python I: Aprendiendo a programar con Python,aprendiendo-programar-python,970.0,4.205154639175258,Spanish,Beginner,100000,Coursera
+Modernizing Data Lakes and Data Warehouses with GCP,data-lakes-data-warehouses-gcp,225.0,4.604444444444445,English,Intermediate,91000,Coursera
+Drug Discovery,drug-discovery,386.0,4.580310880829016,English,Beginner,39000,Coursera
+Nutrition and Lifestyle in Pregnancy,nutrition-pregnancy,465.0,4.763440860215054,English,Intermediate,35000,Coursera
+Financial Acumen for Non-Financial Managers,finance-healthcare-managers,107.0,4.252336448598131,English,Beginner,10000,Coursera
+Python and Statistics for Financial Analysis,python-statistics-financial-analysis,437.0,4.270022883295194,English,Intermediate,41000,Coursera
+Bugs 101: Insect-Human Interactions,bugs-101,297.0,4.962962962962963,English,Beginner,15000,Coursera
+Autodesk Certified Professional: Revit for Architectural Design Exam Prep,autodesk-revit-architectural-design,107.0,4.672897196261682,English,Advanced,97000,Coursera
+"Leading for Equity, Diversity and Inclusion in Higher Education",leading-for-equity-diversity-inclusion,38.0,4.7105263157894735,English,Intermediate,59000,Coursera
+Enterprise Architecture,enterprise-architecture,33.0,4.545454545454546,English,Beginner,24000,Coursera
+Introduction to Spreadsheets and Models,wharton-introduction-spreadsheets-models,572.0,3.618881118881119,English,Mixed,76000,Coursera
+The Arts and Science of Relationships: Understanding Human Needs,human-needs,283.0,4.431095406360424,English,Beginner,73000,Coursera
+Essentials in Clinical Simulations Across the Health Professions,clinicalsimulations,158.0,4.816455696202532,English,Intermediate,41000,Coursera
+Budgeting and Scheduling Projects,schedule-projects,887.0,4.730552423900789,English,Mixed,84000,Coursera
+Machine Learning for Business Professionals,machine-learning-business-professionals,874.0,4.574370709382151,English,Intermediate,58000,Coursera
+Spanish Vocabulary: Meeting People,spanish-vocabulary-meeting-people,478.0,4.518828451882845,English,Beginner,71000,Coursera
+Public Policy Challenges of the 21st Century,public-policy,272.0,4.566176470588236,English,Beginner,52000,Coursera
+International Law in Action: the Arbitration of International Disputes,arbitration-international-disputes,102.0,4.852941176470588,English,Mixed,19000,Coursera
+Financing and Investing in Infrastructure,infrastructure-investing,356.0,4.842696629213483,English,Mixed,24000,Coursera
+Global Environmental Management,global-environmental-management,283.0,4.657243816254417,English,Intermediate,22000,Coursera
+Operations Analytics,wharton-operations-analytics,830.0,4.660240963855422,English,Mixed,80000,Coursera
+Entrepreneurship Strategy: From Ideation to Exit,entrepreneurship-strategy,6.0,1.0,English,Beginner,20000,Coursera
+FinTech Law and Policy,fintechlawandpolicy,109.0,4.825688073394495,English,Beginner,97000,Coursera
+The Social Context of Mental Health and Illness,mental-health,83.0,4.614457831325301,English,Mixed,19000,Coursera
+What Is Contemporary Art?,contemporary-art,292.0,4.753424657534247,English,Beginner,120000,Coursera
+The Art of Music Production,producing-music,431.0,4.82830626450116,English,Intermediate,47000,Coursera
+Biohacking Your Brain's Health,biohacking-your-brains-health,237.0,4.70042194092827,English,Beginner,35000,Coursera
+Bayesian Statistics: From Concept to Data Analysis,bayesian-statistics,640.0,4.4484375,English,Intermediate,91000,Coursera
+Reporting extra-financier et stratégie RSE,reporting-extra-financier-strategie-rse,53.0,4.6415094339622645,French,Beginner,52000,Coursera
+Leading Healthcare Quality and Safety,quality-healthcare,186.0,4.78494623655914,English,Beginner,16000,Coursera
+Fundamentos de Excel para Negocios,excel-para-negocios,1250.0,4.8064,Spanish,Beginner,150000,Coursera
+Elastic Google Cloud Infrastructure: Scaling and Automation,gcp-infrastructure-scaling-automation,657.0,4.581430745814307,English,Intermediate,57000,Coursera
+Fundamentos de Finanzas Empresariales,finanzas-empresariales,1442.0,4.898058252427185,Spanish,Beginner,110000,Coursera
+Greening the Economy: Sustainable Cities,gte-sustainable-cities,597.0,4.59463986599665,English,Beginner,56000,Coursera
+Introduction to Engineering Mechanics,engineering-mechanics-statics,730.0,4.764383561643836,English,Mixed,150000,Coursera
+Design-Led Strategy: Design thinking for business strategy and entrepreneurship,design-strategy,135.0,4.622222222222222,English,Intermediate,19000,Coursera
+Biology Meets Programming: Bioinformatics for Beginners,bioinformatics,307.0,4.061889250814332,English,Beginner,88000,Coursera
+Understanding Medical Research: Your Facebook Friend is Wrong,medical-research,267.0,4.925093632958801,English,Beginner,24000,Coursera
+Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential,mindshift,2727.0,4.842684268426843,English,Beginner,230000,Coursera
+Programming Fundamentals,programming-fundamentals,1251.0,4.643485211830535,Indonesia,Beginner,19000,Coursera
+In the Studio: Postwar Abstract Painting,painting,460.0,4.921739130434783,English,Beginner,79000,Coursera
+Drug Commercialization,drug-commercialization,151.0,4.609271523178808,Italian,Beginner,17000,Coursera
+"Social Norms, Social Change I",norms,391.0,4.60613810741688,English,Beginner,78000,Coursera
+Excel Skills for Business: Intermediate II,excel-intermediate-2,1009.0,4.731417244796829,English,Intermediate,39000,Coursera
+Aboriginal Worldviews and Education,aboriginal-education,67.0,4.552238805970149,English,Mixed,66000,Coursera
+Business Writing,writing-for-business,811.0,4.818742293464858,Deutsch,Beginner,48000,Coursera
+Autodesk Certified Professional: AutoCAD for Design and Drafting Exam Prep,autodesk-autocad-design-drafting,321.0,4.728971962616822,English,Advanced,22000,Coursera
+Introduction to Typography,typography,810.0,4.762962962962963,English,Beginner,72000,Coursera
+Customer Segmentation and Prospecting,customer-segmentation-prospecting,162.0,4.722222222222222,English,Beginner,18000,Coursera
+English for Journalism,journalism,604.0,4.819536423841059,English,Mixed,130000,Coursera
+How Things Work: An Introduction to Physics,how-things-work,620.0,4.808064516129032,English,Intermediate,170000,Coursera
+Business English: Networking,business-english-intro,573.0,4.801047120418848,English,Intermediate,77000,Coursera
+Summary Statistics in Public Health,summary-statistics,233.0,4.793991416309013,English,Beginner,11000,Coursera
+Global Energy and Climate Policy,globalenergyandclimatepolicy,103.0,4.621359223300971,English,Beginner,10000,Coursera
+El Abogado del Futuro: Legaltech y la Transformación Digital del Derecho,legaltech,125.0,4.968,Spanish,Beginner,15000,Coursera
+Probability and Statistics: To p or not to p?,probability-statistics,336.0,4.669642857142857,English,Beginner,36000,Coursera
+Gut Check: Exploring Your Microbiome,microbiome,251.0,4.7370517928286855,English,Mixed,62000,Coursera
+Econometrics: Methods and Applications,erasmus-econometrics,200.0,4.465,English,Mixed,110000,Coursera
+Mastering Data Analysis in Excel,analytics-excel,797.0,3.71267252195734,English,Mixed,280000,Coursera
+Basic Statistics,basic-statistics,833.0,4.589435774309724,English,Beginner,180000,Coursera
+"Capstone: Retrieving, Processing, and Visualizing Data with Python",python-data-visualization,1295.0,4.508108108108108,English,Mixed,82000,Coursera
+Design Thinking for the Greater Good: Innovation in the Social Sector,uva-darden-design-thinking-social-sector,84.0,4.583333333333333,English,Beginner,17000,Coursera
+Introduction to Portfolio Construction and Analysis with Python,introduction-portfolio-construction-python,195.0,4.769230769230769,English,Mixed,11000,Coursera
+Data Analytics for Lean Six Sigma,data-analytics-for-lean-six-sigma,679.0,4.87481590574374,English,Beginner,24000,Coursera
+Business Transformation with Google Cloud,business-transformation-google-cloud,181.0,4.718232044198895,English,Beginner,10000,Coursera
+Version Control with Git,version-control-with-git,467.0,4.747323340471092,English,Mixed,40000,Coursera
+"Transmedia Storytelling: Narrative worlds, emerging technologies, and global audiences",transmedia-storytelling,169.0,4.715976331360947,English,Mixed,45000,Coursera
+Building Conversational Experiences with Dialogflow,conversational-experiences-dialogflow,229.0,4.231441048034935,English,Beginner,22000,Coursera
+Guitar for Beginners,guitar,534.0,4.726591760299626,Norway,Mixed,210000,Coursera
+Managing Project Risks and Changes,project-risk-management,811.0,4.774352651048089,English,Mixed,71000,Coursera
+L'excellence opérationnelle en pratique,excellence-operationnelle,98.0,4.73469387755102,French,Beginner,8000,Coursera
+Introduction to Cloud Computing,introduction-to-cloud,83.0,4.819277108433735,English,Beginner,26000,Coursera
+Sample-based Learning Methods,sample-based-learning-methods,149.0,4.449664429530201,English,Intermediate,68000,Coursera
+Functional Programming Principles in Scala,progfun1,1435.0,4.719163763066202,English,Intermediate,170000,Coursera
+Introduction to Blockchain Technologies,introduction-blockchain-technologies,302.0,4.711920529801325,English,Beginner,16000,Coursera
+Introduction to Environmental Law and Policy,environmental-law,523.0,4.871892925430211,English,Mixed,34000,Coursera
+"Cameras, Exposure, and Photography",exposure-photography,1071.0,4.727357609710551,English,Mixed,130000,Coursera
+Democracia y decisiones públicas. Introducción al análisis de políticas públicas,democracia,436.0,4.860091743119266,Spanish,Beginner,44000,Coursera
+Dentistry 101,dentistry101,32.0,4.84375,English,Beginner,45000,Coursera
+"Python Functions, Files, and Dictionaries",python-functions-files-dictionaries,535.0,4.805607476635514,English,Beginner,26000,Coursera
+Anticorrupción: Introducción a conceptos y perspectiva práctica,anticorrupcion-introduccion,385.0,4.851948051948052,Spanish,Beginner,11000,Coursera
+Positive Psychology: Applications and Interventions,positive-psychology-applications,398.0,4.741206030150754,English,Beginner,23000,Coursera
+Introduction to Embedded Systems Software and Development Environments,introduction-embedded-systems,109.0,4.275229357798165,English,Intermediate,41000,Coursera
+A Law Student's Toolkit,law-student,291.0,4.680412371134021,English,Mixed,91000,Coursera
+Introducción a Data Science: Programación Estadística con R,intro-data-science-programacion-estadistica-r,2393.0,4.732971165900543,Spanish,Beginner,140000,Coursera
+Smart Cities – Management of Smart Urban Infrastructures,smart-cities,222.0,4.594594594594595,English,Beginner,22000,Coursera
+Getting Started with Go,golang-getting-started,314.0,4.404458598726115,English,Intermediate,59000,Coursera
+The Power of Microeconomics: Economic Principles in the Real World,principles-of-microeconomics,270.0,4.62962962962963,English,Mixed,120000,Coursera
+Introduction to Personal Branding,personal-branding,1976.0,4.447368421052632,English,Beginner,140000,Coursera
+Love as a Force for Social Justice,love-social-justice,73.0,4.712328767123288,English,Beginner,14000,Coursera
+Introduction to Genetics and Evolution,genetics-evolution,263.0,4.840304182509506,English,Mixed,74000,Coursera
+Основы программирования на Python,python-osnovy-programmirovaniya,524.0,4.293893129770993,Russian,Beginner,83000,Coursera
+"Introduction to Trading, Machine Learning & GCP",introduction-trading-machine-learning-gcp,138.0,3.463768115942029,English,Intermediate,13000,Coursera
+"The Modern World, Part Two: Global History since 1910",modern-world-2,290.0,4.793103448275862,English,Beginner,47000,Coursera
+Understanding Plants - Part I: What a Plant Knows,plantknows,339.0,4.825958702064897,English,Beginner,49000,Coursera
+Finanzas personales,finanzas-personales,2590.0,4.803474903474903,Spanish,Mixed,310000,Coursera
+English Composition I,english-composition,179.0,4.569832402234637,English,Beginner,200000,Coursera
+Introduction to Self-Driving Cars,intro-self-driving-cars,332.0,4.647590361445783,English,Advanced,39000,Coursera
+Corporate & Commercial Law I: Contracts & Employment Law,corporate-commercial-law-part1,108.0,4.842592592592593,English,Intermediate,10000,Coursera
+Foundations of Business Strategy,uva-darden-foundations-business-strategy,454.0,4.795154185022026,English,Beginner,63000,Coursera
+Introdução à Ciência da Computação com Python Parte 1,ciencia-computacao-python-conceitos,1419.0,4.86892177589852,Portuguese,Beginner,120000,Coursera
+"Innovation Through Design: Think, Make, Break, Repeat",innovation-through-design,95.0,4.757894736842105,English,Beginner,10000,Coursera
+Perfect Tenses and Modals,perfect-tenses-modals,726.0,4.807162534435261,English,Intermediate,79000,Coursera
+Revisão Sistemática e Meta-análise,revisao-sistematica,469.0,4.9211087420042645,Portuguese,Intermediate,17000,Coursera
+Aprendiendo a aprender: Poderosas herramientas mentales con las que podrás dominar temas difíciles (Learning How to Learn),aprendiendo-a-aprender,3090.0,4.919417475728156,Spanish,Beginner,180000,Coursera
+Building Batch Data Pipelines on GCP,batch-data-pipelines-gcp,129.0,4.255813953488372,English,Intermediate,73000,Coursera
+Quantitative Methods,quantitative-methods,565.0,4.7132743362831855,English,Mixed,69000,Coursera
+The Technology of Music Production,technology-of-music-production,235.0,4.851063829787234,English,Beginner,28000,Coursera
+Code Yourself! An Introduction to Programming,intro-programming,672.0,4.800595238095238,English,Beginner,120000,Coursera
+Success,wharton-success,268.0,4.902985074626866,Italian,Beginner,38000,Coursera
+Chemicals and Health,chemicals-health,196.0,4.790816326530612,English,Beginner,23000,Coursera
+Object-Oriented Design,object-oriented-design,282.0,4.542553191489362,Netherlands,Intermediate,33000,Coursera
+Introduction to Intellectual Property,introduction-intellectual-property,81.0,4.753086419753086,English,Beginner,6000,Coursera
+Cost and Economics in Pricing Strategy,uva-darden-bcg-pricing-strategy-cost-economics,116.0,4.810344827586207,English,Beginner,15000,Coursera
+Write A Feature Length Screenplay For Film Or Television,write-a-feature-length-screenplay-for-film-or-television,32.0,4.625,English,Beginner,12000,Coursera
+Marketing Gerencial,marketing-gerencial,743.0,4.722745625841184,English,Intermediate,49000,Coursera
+Corporate Finance Essentials,corporate-finance-essentials,575.0,4.855652173913043,English,Mixed,56000,Coursera
+Information Security: Context and Introduction,information-security-data,344.0,4.65406976744186,English,Beginner,32000,Coursera
+"Anatomy of the Chest, Abdomen, and Pelvis",trunk-anatomy,228.0,4.802631578947368,English,Intermediate,36000,Coursera
+Introduction to CSS3,introcss,1515.0,4.790759075907591,English,Mixed,84000,Coursera
+Applied Data Science Capstone,applied-data-science-capstone,581.0,4.509466437177281,English,Intermediate,42000,Coursera
+Introduction aux Droits de l’Homme,droits-de-lhomme,416.0,4.858173076923077,French,Mixed,46000,Coursera
+Leadership in 21st Century Organizations,leadership-21st-century,236.0,4.745762711864407,English,Mixed,34000,Coursera
+Software Processes and Agile Practices,software-processes-and-agile-practices,661.0,4.6747352496217855,English,Mixed,60000,Coursera
+Introduction to Statistics & Data Analysis in Public Health,introduction-statistics-data-analysis-public-health,157.0,4.67515923566879,English,Beginner,12000,Coursera
+Discrete Optimization,discrete-optimization,120.0,4.833333333333333,Rumania,Intermediate,40000,Coursera
+Основы разработки на C++: белый пояс,c-plus-plus-white,344.0,4.729651162790698,Russian,Intermediate,41000,Coursera
+Essential Epidemiologic Tools for Public Health Practice,epidemiology-tools,458.0,4.635371179039302,English,Beginner,14000,Coursera
+Epigenetic Control of Gene Expression,epigenetics,6.0,1.0,English,Mixed,35000,Coursera
+"Recruiting, Hiring, and Onboarding Employees",recruiting-hiring-onboarding-employees,192.0,3.84375,English,Mixed,35000,Coursera
+AWS Fundamentals: Addressing Security Risk,aws-fundamentals-addressing-security-risk,252.0,4.162698412698413,English,Beginner,11000,Coursera
+Becoming a changemaker: Introduction to Social Innovation,social-innovation,58.0,4.241379310344827,English,Beginner,61000,Coursera
+Introduction to Systems Engineering,systems-engineering,82.0,4.7317073170731705,English,Mixed,33000,Coursera
+Bayesian Statistics: Techniques and Models,mcmc-bayesian-statistics,107.0,4.757009345794392,English,Intermediate,29000,Coursera
+Intercultural Management,intercultural,63.0,4.444444444444445,Rumania,Beginner,65000,Coursera
+Get Interactive: Practical Teaching with Technology,getinmooc,178.0,4.780898876404494,English,Beginner,14000,Coursera
+Global Financial Markets and Instruments,global-financial-markets-instruments,263.0,4.307984790874524,English,Mixed,37000,Coursera
+Write Your First Novel,write-your-first-novel,20.0,3.85,English,Beginner,18000,Coursera
+Songwriting: Writing the Lyrics,songwriting-lyrics,176.0,4.75,English,Beginner,68000,Coursera
+"Applied Plotting, Charting & Data Representation in Python",python-plotting,858.0,4.339160839160839,English,Intermediate,97000,Coursera
+Systems Thinking In Public Health,systems-thinking,144.0,4.513888888888889,English,Mixed,33000,Coursera
+Excel Skills for Business: Advanced,excel-advanced,800.0,4.6825,English,Intermediate,39000,Coursera
+The Global Financial Crisis,global-financial-crisis,409.0,4.8557457212713935,English,Mixed,84000,Coursera
+Agile и Scrum в работе над проектами и продуктами,upravleniya-proektami-agile-scrum,44.0,4.727272727272728,Russian,Beginner,12000,Coursera
+Renewable Energy and Green Building Entrepreneurship,renewable-energy-entrepreneurship,389.0,4.714652956298201,English,Beginner,24000,Coursera
+The Cycle: Management of Successful Arts and Cultural Organizations,the-cycle,108.0,4.861111111111111,English,Beginner,11000,Coursera
+Digital Business Models,digital-business-models,109.0,4.495412844036697,Deutsch,Beginner,21000,Coursera
+Introduction to Computer Programming,introduction-to-computer-programming,138.0,3.920289855072464,English,Beginner,20000,Coursera
+Dermatology: Trip to skin,dermatology,77.0,4.077922077922078,English,Beginner,82000,Coursera
+Sustainable Tourism – promoting environmental public health,sustainable-tourism,242.0,4.504132231404959,English,Beginner,94000,Coursera
+C for Everyone: Programming Fundamentals,c-for-everyone,842.0,4.546318289786223,Denmark,Beginner,31000,Coursera
+Social and Economic Networks:  Models and Analysis,social-economic-networks,6.0,1.0,English,Advanced,42000,Coursera
+The Truth About Cats and Dogs,cats-and-dogs,426.0,4.769953051643192,English,Mixed,33000,Coursera
+Sports and Society,sports-society,216.0,4.87962962962963,English,Mixed,16000,Coursera
+Effective Compliance Programs,effective-compliance-programs,53.0,4.90566037735849,English,Mixed,34000,Coursera
+Curanderismo: Traditional Healing Using Plants,curanderismo-plants,6.0,1.0,English,Beginner,55000,Coursera
+Applied Machine Learning in Python,python-machine-learning,1171.0,4.488471391972673,English,Intermediate,150000,Coursera
+"Corrección, estilo y  variaciones de la lengua española",correccion-estilo-variaciones,368.0,4.736413043478261,Spanish,Beginner,75000,Coursera
+Les Fondamentaux de la Négociation,fondamentaux-negociation,73.0,4.863013698630137,French,Beginner,10000,Coursera
+The Science of Success: What Researchers Know that You Should Know,success,553.0,4.848101265822785,English,Beginner,59000,Coursera
+Finance for Non-Financial Managers,finance-for-non-financial-managers,69.0,4.130434782608695,English,Intermediate,12000,Coursera
+Getting Started With Music Theory,music-theory,182.0,4.263736263736264,English,Beginner,59000,Coursera
+The Horse Course: Introduction to Basic Care and Management,horse-care,270.0,4.907407407407407,English,Mixed,29000,Coursera
+Gestión de organizaciones efectivas,gestion-organizaciones-efectivas,615.0,4.7560975609756095,Spanish,Mixed,47000,Coursera
+Introduction to Big Data,big-data-introduction,2018.0,4.567393458870169,English,Mixed,160000,Coursera
+Ecology: Ecosystem Dynamics and Conservation,ecology-conservation,508.0,4.852362204724409,English,Intermediate,18000,Coursera
+Introduction to Game Development,game-development,1262.0,4.751980982567353,English,Mixed,79000,Coursera
+Practical Time Series Analysis,practical-time-series-analysis,310.0,4.461290322580645,English,Intermediate,39000,Coursera
+Getting Started with Google Kubernetes Engine,google-kubernetes-engine,639.0,4.245696400625978,English,Intermediate,75000,Coursera
+Six Sigma and the Organization (Advanced),six-sigma-organization-advanced,406.0,4.711822660098522,English,Intermediate,15000,Coursera
+Entrepreneurship 2: Launching your Start-Up,wharton-launching-startup,226.0,4.778761061946903,English,Mixed,38000,Coursera
+Nanotechnology: A Maker’s Course,nanotechnology,450.0,4.84,English,Mixed,21000,Coursera
+Creative Problem Solving,creative-problem-solving,513.0,4.456140350877193,English,Mixed,140000,Coursera
+"Sleep: Neurobiology, Medicine, and Society",sleep,72.0,4.694444444444445,English,Beginner,20000,Coursera
+COVID-19: What You Need to Know (CME Eligible),covid-19-what-you-need-to-know,1347.0,4.838901262063845,English,Beginner,32000,Coursera
+Classical Sociological Theory,classical-sociological-theory,515.0,4.867961165048544,English,Mixed,51000,Coursera
+Electric Industry Operations and Markets,electricity,164.0,4.682926829268292,English,Beginner,12000,Coursera
+More Introduction to Financial Accounting,wharton-financial-accounting,95.0,4.810526315789474,English,Mixed,40000,Coursera
+Think Again I: How to Understand Arguments,understanding-arguments,583.0,4.596912521440824,English,Beginner,200000,Coursera
+Developing Your Musicianship,develop-your-musicianship,309.0,4.84789644012945,English,Mixed,41000,Coursera
+Introduction to Operations Management,wharton-operations,468.0,4.297008547008547,English,Mixed,87000,Coursera
+The Oral Cavity: Portal to Health and Disease,oralcavity,92.0,4.923913043478261,English,Intermediate,94000,Coursera
+Preparing for the Google Cloud Associate Cloud Engineer Exam,preparing-cloud-associate-cloud-engineer-exam,251.0,4.53784860557769,English,Beginner,22000,Coursera
+Fundamental Neuroscience for Neuroimaging,neuroscience-neuroimaging,319.0,4.639498432601881,Italian,Beginner,30000,Coursera
+Teach English Now! Teaching Language Online,teachlanguageonline,79.0,4.544303797468355,English,Intermediate,85000,Coursera
+Front-End Web Development with React,front-end-react,574.0,4.602787456445993,English,Intermediate,45000,Coursera
+Music Business Foundations,music-business-foundations,459.0,4.856209150326797,English,Mixed,34000,Coursera
+Introduction to Business Analytics: Communicating with Data,intro-business-analytics,103.0,4.563106796116505,English,Intermediate,14000,Coursera
+Machine Learning Foundations: A Case Study Approach,ml-foundations,2692.0,4.487741456166419,English,Mixed,240000,Coursera
+Accounting Analytics,accounting-analytics,468.0,4.395299145299146,English,Mixed,80000,Coursera
+Strategic Business Management - Microeconomics,strategic-business-management-microeconomics,28.0,4.75,English,Beginner,95000,Coursera
+"Epidemics, Pandemics and Outbreaks",epidemic-pandemic-outbreak,468.0,4.737179487179487,English,Mixed,23000,Coursera
+Roman Architecture,roman-architecture,127.0,4.850393700787402,English,Beginner,30000,Coursera
+Research Data Management and Sharing,data-management,128.0,4.6875,English,Mixed,16000,Coursera
+Introduction to Genomic Technologies,introduction-genomics,475.0,4.477894736842106,English,Mixed,42000,Coursera
+Strategic Management,strategic-management,750.0,4.785333333333333,English,Mixed,58000,Coursera
+Legal Tech & Startups,legal-tech-startups,44.0,4.386363636363637,Indonesia,Intermediate,72000,Coursera
+Introduction to Chemistry:  Reactions and Ratios,intro-chemistry,178.0,4.825842696629214,English,Beginner,46000,Coursera
+The Science of Stem Cells,stem-cells,316.0,4.734177215189874,English,Intermediate,12000,Coursera
+Positive Psychology: Resilience Skills,positive-psychology-resilience,493.0,4.886409736308316,English,Beginner,40000,Coursera
+AI for Medical Prognosis,ai-for-medical-prognosis,87.0,4.747126436781609,Italian,Intermediate,4000,Coursera
+Antibiotic Stewardship,antibiotic-stewardship,37.0,4.1891891891891895,English,Advanced,11000,Coursera
+EMT Foundations,emt-foundations,122.0,4.844262295081967,English,Beginner,71000,Coursera
+Industrial IoT on Google Cloud Platform,iiot-google-cloud-platform,585.0,4.531623931623932,English,Beginner,34000,Coursera
+Advertising and Society,role-of-advertising,149.0,4.805369127516778,English,Mixed,14000,Coursera
+New Approaches to Countering Terror: Countering Violent Extremism,countering-terror-violent-extremism,25.0,4.84,English,Beginner,12000,Coursera
+Magic in the Middle Ages,magic-middle-ages,379.0,4.54353562005277,English,Beginner,78000,Coursera
+Challenging Forensic Science: How Science Should Speak to Court,challenging-forensic-science,67.0,4.850746268656716,English,Beginner,31000,Coursera
+Corporate Strategy,corporatestrategy,144.0,4.875,English,Beginner,78000,Coursera
+Actualización en el manejo del paciente con diabetes mellitus tipo 2,actualizacion-manejo-diabetes-tipo-2,253.0,4.845849802371541,Spanish,Mixed,23000,Coursera
+Mastering Final Cut Pro,mastering-final-cut-pro,37.0,4.45945945945946,English,Beginner,84000,Coursera
+Tricky American English Pronunciation,tricky-american-english-pronunciation,606.0,4.740924092409241,English,Beginner,110000,Coursera
+International Law in Action: A Guide to the International Courts and Tribunals in The Hague,international-law-in-action,177.0,4.751412429378531,English,Mixed,36000,Coursera
+Geopolitics of Europe,geopolitics-europe,83.0,3.734939759036144,English,Mixed,19000,Coursera
+Osteoarchaeology: The Truth in Our Bones,truthinourbones-osteoarchaeology-archaeology,124.0,4.580645161290323,English,Beginner,22000,Coursera
+Mathematics for Machine Learning: PCA,pca-machine-learning,522.0,3.4482758620689653,English,Intermediate,33000,Coursera
+Математика и Python для анализа данных,mathematics-and-python,832.0,4.627403846153846,Russian,Beginner,67000,Coursera
+Hacia una práctica constructivista en el aula,aulaconstructivista,569.0,4.905096660808436,Spanish,Mixed,62000,Coursera
