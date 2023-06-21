@@ -11,12 +11,19 @@ Luego de extraer, comparar y obt
 * `Totalidad Anual de Niveles`
    * `Objetivo`: Llegar a 500 cursos anuales como minimo en la suma de todos los niveles
    * `Funcionamiento`: Para poder utilizar dicho KPI debe usar los segmentadores de `MOOC` y `Nivel de dificultad`.
+     
 * `Promedio de Precio Anuales Totales`
-   * `Objetivo`: Tener un precio promedio de que supere los $500 por año.
+   * `Objetivo`: Tener un precio promedio de que supere los $500 por año en la totalidad de los niveles de dificultad.
    * `Funcionamiento`: Para poder utilizar dicho KPI debe usar los segmentadores de `MOOC` y `Nivel de dificultad`.
+     
 * `Totalidad Anual de Idiomas`
-   * `Objetivo`: Tener como minimo 5 idiomas en la totalidad de los niveles.
+   * `Objetivo`: Comparar 
    * `Funcionamiento`: Para poder utilizar dicho KPI debe usar los segmentadores de `MOOC` y `Nivel de dificultad`.
+
+* `Comparacion de Año Pasado vs Actual` (Aplica solo para Coursera)
+   * `Objetivo`: Comparar la cantidad de inscritos del año en curso vs el año anterior con un incremento del 20% sobre el mismo.
+   * `Funcionamiento`: Para poder utilizar dicho KPI debe usar los segmentadores de `MOOC` y `Año`.
+ 
 # Repositorio
 `Directorios`:
   * `Datasets_EDA` > Contiene todos los archivos CSV transformados.
