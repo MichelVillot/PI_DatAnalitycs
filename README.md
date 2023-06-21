@@ -1,8 +1,22 @@
 # Presentacion de Proyecto
 Actualmente nuestro cliente `Data MOOC Enterprise` quiere incursionar en el mundo de los MOOCs sin embargo compra informacion de otras compañias para poder tener una perspectiva mas clara de si sera rentable o no en el tiempo.
 
-Nuestro trabajo como `Data Analyst` es extraer la mayor cantidad de informacion posible de nuestros datasets, nos han proporcionado informacion de `Udemy`, `Coursera` y `Edx`
+Nuestro trabajo como `Data Analyst` es extraer la mayor cantidad de informacion posible de nuestros datasets, los cuales tienen informacion de `Udemy`, `Coursera` y `Edx`.
 
+# Reporte de Analisis:
+
+Luego de extraer, comparar y obt
+
+# KIPs
+* `Totalidad Anual de Niveles`
+   * `Objetivo`: Llegar a 500 cursos anuales como minimo en la suma de todos los niveles
+   * `Funcionamiento`: Para poder utilizar dicho KPI debe usar los segmentadores de `MOOC` y `Nivel de dificultad`.
+* `Promedio de Precio Anuales Totales`
+   * `Objetivo`: Tener un precio promedio de que supere los $500 por año.
+   * `Funcionamiento`: Para poder utilizar dicho KPI debe usar los segmentadores de `MOOC` y `Nivel de dificultad`.
+* `Totalidad Anual de Idiomas`
+   * `Objetivo`: Tener como minimo 5 idiomas en la totalidad de los niveles.
+   * `Funcionamiento`: Para poder utilizar dicho KPI debe usar los segmentadores de `MOOC` y `Nivel de dificultad`.
 # Repositorio
 `Directorios`:
   * `Datasets_EDA` > Contiene todos los archivos CSV transformados.
