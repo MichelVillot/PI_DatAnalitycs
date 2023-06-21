@@ -9,7 +9,7 @@ Actualmente nuestro cliente Data MOOC Enterprise quiere incursionar en el mundo 
 
 # Repositorio
 Directorios:
-  * Datasets_EDA > Contiene todos los archivos CSV transformados.
+  * `Datasets_EDA` > Contiene todos los archivos CSV transformados.
   * DataSets_originales > Contiene todos los archivos originales provistos Henry y adicionales encontrados en Kaggle
   * Notebooks:
       * coursera_v1.ipynb > notebook con todas las transformaciones y graficos realizados al dataset "coursera"
