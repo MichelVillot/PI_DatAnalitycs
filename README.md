@@ -3,9 +3,12 @@ Actualmente nuestro cliente `Data MOOC Enterprise` quiere incursionar en el mund
 
 Nuestro trabajo como `Data Analyst` es extraer la mayor cantidad de informacion posible de nuestros datasets, los cuales tienen informacion de `Udemy`, `Coursera` y `Edx`.
 
-# Reporte de Analisis:
+# Analisis:
 
-Luego de extraer, comparar y obt
+Luego de extraer, visualizar y comparar estos 3 grandes de la industria MOOC se pudo conocer la siguiente informacion que podria ser un punto de arranque para nuestro cliente:
+1) El nivel de dificultad Beginner es un buen punto inicial, existe una gran demanda ya que no se necesitan conocimientos previos
+2) El precio promedio de un curso es de $25 a $50 USD por ende situarlo en dicho monto seria un punto adicional
+3) El idioma predominante es el ingles en todas las categorias y niveles de dificultad.
 
 # KIPs
 * `Totalidad Anual de Niveles`
