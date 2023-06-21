@@ -38,5 +38,5 @@ Luego de extraer, visualizar y comparar estos 3 grandes de la industria MOOC se 
       * edx.ipynb > notebook con todas las transformaciones y graficos realizados al dataset "edx"
       * udemy.ipynb > notebook con todas las transformaciones y graficos realizados al dataset "udemy"
   * `Datasets_DB y Dashboard` > Estos archivos fueron cargados en la nube debido al peso y el maximo soportado por Github.
-      * Link: https://drive.google.com/drive/folders/1Mz1lE8LXMlsmxMItH9GF2RTI0T02VFX7
+      * Link: https://drive.google.com/drive/folders/13f7NhO_3yTjFj9N4Tq2NO5PYHwtFaCFp?usp=sharing
     
