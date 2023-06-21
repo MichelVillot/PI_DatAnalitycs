@@ -17,4 +17,6 @@ Directorios:
       * eda_final > notebook con las transformaciones finales de cada dataset para obtener los mismos combinados
       * edx.ipynb > notebook con todas las transformaciones y graficos realizados al dataset "edx"
       * udemy.ipynb > notebook con todas las transformaciones y graficos realizados al dataset "udemy"
+  * Datasets_DB y Dashboard > Estos archivos fueron cargados en la nube debido al peso y el maximo soportado por Github.
+  * Link: https://drive.google.com/drive/folders/1Mz1lE8LXMlsmxMItH9GF2RTI0T02VFX7
     
