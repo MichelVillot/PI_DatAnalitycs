@@ -1,11 +1,7 @@
 # Presentacion de Proyecto
-Actualmente nuestro cliente Data MOOC Enterprise quiere incursionar en el mundo de los MOOCs sin embargo compra informacion de otras compañias para poder tener una perspectiva mas clara de si sera rentable o no en el tiempo.
+Actualmente nuestro cliente `Data MOOC Enterprise` quiere incursionar en el mundo de los MOOCs sin embargo compra informacion de otras compañias para poder tener una perspectiva mas clara de si sera rentable o no en el tiempo.
 
-# Inicio
-
-# Desarrollo
-
-# Conclusiones
+Nuestro trabajo como `Data Analyst` es extraer la mayor cantidad de informacion posible de nuestros datasets, nos han proporcionado informacion de `Udemy`, `Coursera` y `Edx`
 
 # Repositorio
 `Directorios`:
